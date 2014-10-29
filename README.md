@@ -1,4 +1,4 @@
 PhotoView-Xamarin-Bindings
 ==========================
 
-Xamarin bindings for PhotoView by Chris Banes
+Xamarin Android bindings for PhotoView by Chris Banes - https://github.com/chrisbanes/PhotoView
