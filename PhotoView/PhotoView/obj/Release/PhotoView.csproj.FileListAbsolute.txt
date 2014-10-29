@@ -1,0 +1,4 @@
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\PhotoView\PhotoView\bin\Release\PhotoView.dll
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\PhotoView\PhotoView\bin\Release\PhotoView.pdb
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\PhotoView\PhotoView\obj\Release\PhotoView.dll
+C:\Users\cflaa_000\Documents\Visual Studio 2012\Projects\PhotoView\PhotoView\obj\Release\PhotoView.pdb
